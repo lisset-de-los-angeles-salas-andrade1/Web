@@ -1,0 +1,23 @@
+.contenedor .superior{
+    background-color: #ad5858;
+}
+.contenedor .centro{
+    background-color: #bfb2b2;
+}
+.info{
+    background-color: wheat;
+    border-color: black;
+    border-radius: 10px;
+}
+.info input{
+    border-color: black;
+}
+.info button{
+    border-color: black;
+    color: #ad5858;
+    border-radius: 10px;
+}
+.informacion{
+    text-align: center;
+    background-color: rgba(231, 175, 108, 0.748);
+}
