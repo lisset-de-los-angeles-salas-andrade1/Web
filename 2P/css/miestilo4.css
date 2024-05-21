@@ -1,0 +1,22 @@
+h3{
+    background-color: blue;
+    text-align: center;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    color: black;
+}
+.container label, select{
+    font-size: 15px;
+    font-weight: bold;
+}
+.container select{
+    color: rgb(136, 194, 233);
+    border-radius: 5px;
+}
+.dirrecion input {
+    width: 100%;
+    border-radius: 5px;
+}
